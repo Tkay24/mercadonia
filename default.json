@@ -1,0 +1,20 @@
+{
+  "wtheta": {
+    "contractAddress": "{
+  "wtheta": {
+    "contractAddress": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
+    "rpcUrl": "https://mainnet.infura.io/v3/bac4fd0de2d64406acacd1a07364d860 "
+  },
+  "network": {
+    "chainId": 1,
+    "name": "mainnet"
+  }
+}
+",
+    "rpcUrl": "https://mainnet.infura.io/v3/bac4fd0de2d64406acacd1a07364d860"
+  },
+  "network": {
+    "chainId": 1,
+    "name": "mainnet"
+  }
+}
